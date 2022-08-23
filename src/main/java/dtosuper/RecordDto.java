@@ -36,7 +36,7 @@ public class RecordDto {
     private String timeFrom;
     private String timeTo;
     private String title;
-    private int totalSalary;
+    private double totalSalary;
     private String type;
     private int wage;
 }
